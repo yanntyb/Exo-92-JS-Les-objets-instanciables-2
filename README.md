@@ -1,0 +1,1 @@
+# Exo-92-JS-Les-objets-instanciables-2
